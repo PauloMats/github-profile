@@ -1,6 +1,10 @@
 # 💫 About Me:
 Paulo Mateus, 26 anos e desenolvedor Front-End e atualmente estudante de Back-End na Trybe.
 
+Tenho uma paixão por games, e atualmente como hobie eu estou aprendendo a desenvolver jogos pela Engine Unity usando C#.
+
+Adoraria poder contar um pouco mais da minha história para você! 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paulomatsdev) 
