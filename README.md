@@ -7,7 +7,7 @@ Adoraria poder contar um pouco mais da minha história para você!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paulomatsdev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paulomatsdev/) 
 [![Email](pm.mats@gmail.com)
 
 # 💻 Tech Stack:
