@@ -1,5 +1,6 @@
 # 💫 About Me:
 Paulo Mateus, 26 anos, Desenvolvedor Full Stack.
+
 Tecnologias que estou usando atualmente:
 - FrontEnd com TypeScript, React.js e Next.js.
 - BackEnd com Node.js, Nest.js e MySQL.
