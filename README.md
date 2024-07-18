@@ -1,7 +1,10 @@
 # 💫 About Me:
-Paulo Mateus, 26 anos e desenolvedor Front-End e atualmente estudante de Back-End na Trybe.
+Paulo Mateus, 26 anos, Desenvolvedor Full Stack.
+Tecnologias que estou usando atualmente:
+- FrontEnd com TypeScript, React.js e Next.js.
+- BackEnd com Node.js, Nest.js e MySQL.
 
-Sou fissurado na tecnologia e curto criar coisas do zero utilizando assim muita criatividade. Atualmente além dos estudos e do desenvolvimento de projetos pessoais, como hobie, eu estou aprendendo a desenvolver jogos pela Engine Unity usando C#.
+Sou fissurado na tecnologia e curto criar coisas do zero utilizando assim muita criatividade. Atualmente além dos estudos e do desenvolvimento de projetos pessoais, como hobie, eu estou aprendendo a desenvolver jogos pela Engine Unity usando como linguagem de programação C#.
 
 Adoraria poder contar um pouco mais da minha história para você! 
 
