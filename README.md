@@ -1,11 +1,13 @@
 # 💫 About Me:
-Paulo Mateus, 26 anos, Desenvolvedor Full Stack.
+Olá, me chamo Paulo Mateus, tenho 26 anos e sou fascinado em criar soluções com o uso da tecnologia! 
+
+- Desenvolvedor, formado pela Trybe no curso de desenvolvimento Full Stack, onde realizei também uma especialização em desenvolvimento Android com Kotlin e uma aceleração C#. Atualmente cursando Bacharelado em Engenharia de Software pela Estácio. 
 
 Tecnologias que estou usando atualmente:
-- FrontEnd com TypeScript, React.js e Next.js.
-- BackEnd com Node.js, Nest.js e MySQL.
+- FrontEnd com TypeScript, React.js e Next.js. (ótimo domínio em HTML, CSS e JS)
+- BackEnd com Node.js, Nest.js e MySQL. (aprendendo também backend com: C# e .NET)
 
-Sou fissurado na tecnologia e curto criar coisas do zero utilizando assim muita criatividade. Atualmente além dos estudos e do desenvolvimento de projetos pessoais, como hobie, eu estou aprendendo a desenvolver jogos pela Engine Unity usando como linguagem de programação C#.
+Além das habilidades técnicas, tenho conhecimento em design gráfico e UX/UI, o que enriquece minha visão de usabilidade, permitindo-me entregar interfaces intuitivas e funcionais. Sou proativo e gosto de participar de todas as etapas do desenvolvimento, buscando soluções criativas e eficientes. Valorizo o trabalho em equipe e a troca de conhecimentos, pois acredito que a colaboração é essencial para o sucesso de qualquer projeto.
 
 Adoraria poder contar um pouco mais da minha história para você! 
 
