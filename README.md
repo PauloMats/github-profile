@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, me chamo Paulo Mateus, tenho 26 anos e sou fascinado em criar soluções com o uso da tecnologia! 
+Olá, me chamo Paulo Mateus, tenho 27 anos e sou fascinado em criar soluções com o uso da tecnologia! 
 
 - Desenvolvedor, formado pela Trybe no curso de desenvolvimento Full Stack, onde realizei também uma especialização em desenvolvimento Android com Kotlin e uma aceleração C#. Atualmente cursando Bacharelado em Engenharia de Software pela Estácio. 
 
