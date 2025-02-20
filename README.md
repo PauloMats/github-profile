@@ -4,8 +4,9 @@ Olá, me chamo Paulo Mateus, tenho 27 anos e sou fascinado em criar soluções c
 - Desenvolvedor, formado pela Trybe no curso de desenvolvimento Full Stack, onde realizei também uma especialização em desenvolvimento Android com Kotlin e uma aceleração C#. Atualmente cursando Bacharelado em Engenharia de Software pela Estácio. 
 
 Tecnologias que estou usando atualmente:
-- FrontEnd com TypeScript, React.js e Next.js. (ótimo domínio em HTML, CSS e JS)
-- BackEnd com Node.js, Nest.js e MySQL. (aprendendo também backend com: C# e .NET)
+- FrontEnd -> TypeScript, React.js e Next.js.
+- BackEnd -> Node.js, Nest.js e MySQL. 
+- Mobile -> Kotlin + Java e Jetpack Compose.
 
 Além das habilidades técnicas, tenho conhecimento em design gráfico e UX/UI, o que enriquece minha visão de usabilidade, permitindo-me entregar interfaces intuitivas e funcionais. Sou proativo e gosto de participar de todas as etapas do desenvolvimento, buscando soluções criativas e eficientes. Valorizo o trabalho em equipe e a troca de conhecimentos, pois acredito que a colaboração é essencial para o sucesso de qualquer projeto.
 
